@@ -1,0 +1,133 @@
+[
+    {
+        "id":89,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+        "latest":"No"
+    },
+    {
+        "id":124,
+        "name":"Paper Roast Dosa",
+        "amt":"65",
+        "shop":"Sri Saivihar",
+        "ftype":"Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/124.jpg",
+        "latest":"No"   
+    },
+    {
+
+        "id":26,
+        "name":"Alfredo Pasta",
+        "amt":"185",
+        "shop":"Lakshmi Food",
+        "ftype":"Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/26.jpg",
+        "latest":"Yes"   
+
+    },
+    {
+
+        "id":9,
+        "name":"Chicken 65",
+        "amt":"220",
+        "shop":"Salem RR Briyani",
+        "ftype":"Non-Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/9.jpg",
+        "latest":"No"   
+
+
+    },
+    {
+        "id":80,
+        "name":"Momo Mia Meal",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/80.jpg",
+        "latest":"No"     
+    },
+    {
+        "id":28,
+        "name":"Orange Juice",
+        "amt":"70",
+        "shop":"Juice Mall",
+        "ftype":"Juice",
+        "pic":"https://www.app.tutorjoes.in/img/food/28.jpg",
+        "latest":"No"        
+    },
+    {
+        "id":67,
+        "name":"Milk Halwa",
+        "amt":"77",
+        "shop":"Shri Gupta Sweets",
+        "ftype":"Sweet",
+        "pic":"https://www.app.tutorjoes.in/img/food/67.jpg",
+        "latest":"No"     
+    },
+    {
+        "id":120,
+        "name":"vegetable Soup",
+        "amt":"123",
+        "shop":"Sri Saivihar",
+        "ftype":"Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/120.jpg",
+        "latest":"No"     
+    },
+    {
+        "id":20,
+        "name":"Hyderebad Chicken dry",
+        "amt":"235",
+        "shop":"Lakshmi Food",
+        "ftype":"Non-Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/20.jpg",
+        "latest":"No"     
+    },
+    {
+        "id":133,
+        "name":"Spicy Chicken Afghani",
+        "amt":"350",
+        "shop":"tandoori Wala",
+        "ftype":"Non-Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/133.jpg",
+        "latest":"No"     
+    },
+    {
+        "id":130,
+        "name":"Veg Seekh Kabab",
+        "amt":"230",
+        "shop":"tandoori Wala",
+        "ftype":"Veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/130.jpg",
+        "latest":"Yes"    
+    },
+    {
+        "id":71,
+        "name":"Malai Dada",
+        "amt":"35",
+        "shop":"Shri Gupta Sweets",
+        "ftype":"Sweet",
+        "pic":"https://www.app.tutorjoes.in/img/food/71.jpg",
+        "latest":"No"    
+    },
+    {
+        "id":58,
+        "name":"Jam Role Cake",
+        "amt":"100",
+        "shop":"Sri Saivihar",
+        "ftype":"Cake",
+        "pic":"https://www.app.tutorjoes.in/img/food/58.jpg",
+        "latest":"No"    
+    },
+    {
+        "id":113,
+        "name":"Curd Vadai",
+        "amt":"38",
+        "shop":"Sri Saivihar",
+        "ftype":"veg",
+        "pic":"https://www.app.tutorjoes.in/img/food/113.jpg",
+        "latest":"No"    
+    }
+]
